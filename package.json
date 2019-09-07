@@ -1,0 +1,20 @@
+{
+  "name": "Web-Apps",
+  "version": "1.0.0",
+  "description": "Web-Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShobyP/Web-Apps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShobyP/Web-Apps/issues"
+  },
+  "homepage": "https://github.com/ShobyP/Web-Apps#readme"
+}
